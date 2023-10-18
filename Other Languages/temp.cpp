@@ -7,7 +7,7 @@ int main()
     cin >> fahren;
 
     celsius = 5 * (fahren - 32) / 9;
-    cout << fahren << " Fahrenheit is equal to "
+    cout << fahren << " Fahrenheit equals to "
          << celsius << " Centigrade";
     return 0;
 }
